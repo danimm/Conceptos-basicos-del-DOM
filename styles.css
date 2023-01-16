@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  #errors {
+    color: red;
+  }
+  
+  .hideErrors {
+    display: hidden;
+  }
+  
+  .showErrors {
+    display: block;
+  }
+  
